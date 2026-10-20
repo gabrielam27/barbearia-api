@@ -50,8 +50,6 @@ src/main/java/com/barbearia/
 
 O Lombok gera getters, setters e construtores. Após abrir o projeto no IntelliJ, recarregue o Maven para reconhecer a dependência adicionada. As conversões nos assemblers foram escritas com getters e setters para que cada campo fique visível no código.
 
-O `GUIA_DO_CODIGO.md` explica as classes da barbearia e como acompanhar uma requisição.
-
 O projeto utiliza Java 17, Spring Boot 3, UUID e PostgreSQL.
 
 ## Endpoints
